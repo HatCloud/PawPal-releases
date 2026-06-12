@@ -2,8 +2,6 @@
 
 macOS 透明桌面宠物，集成 AI agent 会话检测与 XP 激励系统。
 
-> 这是**发布镜像仓库**，只存放已签名 + 公证的可下载安装包。源码在私有仓库，不在此处。
-
 ## 下载安装
 
 1. 到 [**Releases**](https://github.com/HatCloud/PawPal-releases/releases/latest) 下载最新的 `PawPal.dmg`
@@ -16,6 +14,33 @@ macOS 透明桌面宠物，集成 AI agent 会话检测与 XP 激励系统。
 
 - macOS 10.15+
 - Apple Silicon 与 Intel 通用（Universal）
+
+## 功能
+
+- **透明桌面宠物**：无边框透明窗口，精灵浮在桌面上
+- **精灵轮廓碰撞**：只有点到角色像素才响应，透明区域穿透
+- **拖拽移动**：左键拖动角色到桌面任意位置
+- **对话气泡**：鼠标悬停触发卡通气泡，打字机逐字效果
+- **多角色切换**：右键弹出选择面板，4 个 Chibi RPG 角色可选
+- **自适应缩放**：不同尺寸 sprite 自动适配窗口
+- **记忆选择**：上次选的角色下次启动自动恢复
+
+## 操作
+
+| 操作 | 效果 |
+|------|------|
+| 左键拖拽 | 移动角色 |
+| 鼠标悬停 | 显示对话气泡 |
+| 右键点击 | 打开角色选择 |
+
+## 角色
+
+| 角色 | 来源 | 协议 |
+|------|------|------|
+| 小猫 Kitten | OpenGameArt - Segel | CC0 |
+| 武士 Samurai | OpenGameArt - Segel | CC0 |
+| 骑士 Knight | OpenGameArt - Segel | CC0 |
+| 冒险者 Adventurer | OpenGameArt - Segel | CC0 |
 
 ## 协议
 
